@@ -32,6 +32,7 @@ import java.util.regex.Pattern;
  *  Renvoie une chaîne de caractères coforme aux noms des fichiers des images dans le répertoire "images".
  *  Attention, la chaîne de caractères est sans accents et avec l'extension.
  *
+ * *
  * @author cfouard
  */
 public class Carte {
